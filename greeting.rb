@@ -1,11 +1,5 @@
-def greeting
-  phrase="Dude, suh!"
-  puts phrase
-  puts phrase
-  phrase="Suh?"
-  puts phrase
+def change_my_name
+  name = "Frank"
+  puts name.reverse
+  return name
 end
-
-greeting
-greeting
-greetinng
