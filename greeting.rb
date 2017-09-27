@@ -8,6 +8,4 @@ end
 
 greeting
 greeting
-greeting
-greeting
-greeting
+greetinng
