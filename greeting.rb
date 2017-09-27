@@ -4,4 +4,4 @@ def change_my_name
   return name
 end
 
-change_my_name
+greeting
